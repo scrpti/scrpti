@@ -2,6 +2,6 @@
 - 👀 I’m interested in AI, Blockchain, DevOps and MetaVerse
 - 💻 Focus on Solidity, Python and Java
 - 🌱 I’m currently studying Software Engineering at UMA (University of Málaga)
-- 📫 How to reach me pedroscarpati@icloud.com
+- 📫 How to reach me pedroscarpati@proton.me
 - ℹ️ See my cv [scrpt.dev](https://scrpt-dev.vercel.app)
 - 🪙 0xd0616C69F7B2cEd52ffAc0bB5351E8F979C623fa
