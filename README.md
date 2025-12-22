@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scrpti (also know as scrpt)
-- 👀 I’m interested in AI, Blockchain, DevOps and MetaVerse
-- 💻 Focus on Solidity, Python and Java
+- 👀 I’m interested in DevOps, AI and Blockchain
+- 💻 Focus on Solidity, Python and C#
 - 🌱 I’m currently studying Software Engineering at UMA (University of Málaga)
 - 📫 How to reach me pedroscarpati@proton.me
 - ℹ️ See my cv [scrpti.dev](https://scrpt-dev.vercel.app)
